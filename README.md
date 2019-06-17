@@ -1,6 +1,6 @@
 # AnimeBrowser
 Watch &amp; Download Anime on your Android phone
-Play Store link:
+Play Store link: <br>
 https://play.google.com/store/apps/details?id=com.journaldev.webviewwithbookmarks
 <br>
 <img height="400" src="https://lh3.googleusercontent.com/W7g6UOcF2GWhGfEsuj1CtEoKkn4HaaRMzOFy-lF-15FygGcXgPdyce0Jsco1dEtbkg0k=w1280-h694-rw">
