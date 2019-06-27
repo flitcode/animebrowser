@@ -1,5 +1,9 @@
 # AnimeBrowser
-Watch &amp; Download Anime on your Android phone <br>
+Web Browser with special features: <br>
+-No Ads <br>
+-Watch in external player <br>
+-Download Videos <br>
+-Download directly to Google Drive <br>
 Download: 
 <a href="https://play.google.com/store/apps/details?id=com.journaldev.webviewwithbookmarks"> Play Store </a> ,
 <a href="https://github.com/flitcode/animebrowser/raw/master/app-release.apk"> Github (Direct Download) </a>
